@@ -25,6 +25,11 @@ function App() {
         <a href="/detectingInstalledApps" >
           <button>Detecting Installed Apps</button>
         </a>
+
+        <br/>
+        <br/>
+
+        <a href="intent://https://lswxd.github.io/pwa-ts/#Intent;package=com.example.my_app;scheme=https;end" target="blank">앱링크</a>
       </div>
     </div>
   );
