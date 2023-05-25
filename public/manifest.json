@@ -26,6 +26,6 @@
 
   "related_applications": [{
     "platform": "webapp",
-    "url": "192.168.0.110:3000/manifest.json"
+    "url": "https://lswxd.github.io/pwa-ts/manifest.json"
   }]
 }
